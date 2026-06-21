@@ -1,0 +1,59 @@
+﻿ID_Eliminado,ID_Conservado,Categoria,SubCategoria,Similitud,Score_Eliminado,Score_Conservado,Titulo_Eliminado,Titulo_Conservado
+11597,11600,Azure Data Factory,Accesos / Autenticación,1.0,159,159,INCIDENTE - Actualización en Power BI Costos San Rafael,INCIDENTE - Error de Pipeline - adf-contabilidad-prd - Pipeline_master_CuentaMay
+11598,11600,Azure Data Factory,Accesos / Autenticación,1.0,159,159,INCIDENTE - Error de pipeline - adf-analitica-prd - MaestroRecursos,INCIDENTE - Error de Pipeline - adf-contabilidad-prd - Pipeline_master_CuentaMay
+11599,11600,Azure Data Factory,Accesos / Autenticación,1.0,159,159,INCIDENTE - Error de Pipeline - adf-analitica-prd - MasterSolucion,INCIDENTE - Error de Pipeline - adf-contabilidad-prd - Pipeline_master_CuentaMay
+10445,10232,Azure Data Factory,Accesos / Autenticación,1.0,85,85,Incidencia - Error de Pipeline ActualizacionDatasets,Error de Pipeline logisticacorporativo-ActualizacionDatasets
+10232,10437,Azure Data Factory,Accesos / Autenticación,0.93,85,94,Error de Pipeline logisticacorporativo-ActualizacionDatasets,Incidencia - Error de Pipeline ActualizacionDatasets
+10240,10252,Azure Data Factory,Error de Time out,0.876,66,88,Error de Pipeline logisticacorporativo- pipeline_master_Area_Solicitante,Incidencia - Error de Pipeline - pipeline_master_Area_Solicitante
+10240,10434,Azure Data Factory,Error de Time out,0.92,66,84,Error de Pipeline logisticacorporativo- pipeline_master_Area_Solicitante,Incidencia - Error de Pipeline pipeline_master_Area_Solicitante
+10456,10750,Azure Data Factory,Error de Time out,0.944,91,97,Incidencia - Error de Pipeline master_Area_Solicitante,INCIDENCIA - Indisponibilidad SAP - BI Logistica
+11897,11892,Azure Data Factory,Linked Services,1.0,251,251,INCIDENTE - Error de Punto de Falla - PRD Bi Finanzas - PL_Maestro_Incremental_D,INCIDENTE - Alerta de Indisponibilidad de Servicio - PRD Bi Contabilidad - PL_FA
+11891,11892,Azure Data Factory,Linked Services,1.0,251,251,INCIDENTE - Error de Punto de Falla - PRD Bi Logistica - pipeline_master_Area_So,INCIDENTE - Alerta de Indisponibilidad de Servicio - PRD Bi Contabilidad - PL_FA
+11893,11892,Azure Data Factory,Linked Services,1.0,251,251,INCIDENTE - Error de Punto de Falla - PRD Bi Logistica - PL_CargaInicial_SAP_Ful,INCIDENTE - Alerta de Indisponibilidad de Servicio - PRD Bi Contabilidad - PL_FA
+11894,11892,Azure Data Factory,Linked Services,1.0,251,251,INCIDENTE - Error de Punto de Falla - PRD Bi Logistica - PL_CargaInicial_SAP_Ful,INCIDENTE - Alerta de Indisponibilidad de Servicio - PRD Bi Contabilidad - PL_FA
+11895,11892,Azure Data Factory,Linked Services,1.0,251,251,INCIDENTE - Alerta de Indispibilidad de Servicio - PRD Bi Logistica - PL_SAP_Lak,INCIDENTE - Alerta de Indisponibilidad de Servicio - PRD Bi Contabilidad - PL_FA
+11896,11892,Azure Data Factory,Linked Services,1.0,251,251,INCIDENTE - Error de Punto de Falla - PRD Bi Logistica - PL_Maestro_Incremental_,INCIDENTE - Alerta de Indisponibilidad de Servicio - PRD Bi Contabilidad - PL_FA
+11890,11892,Azure Data Factory,Linked Services,1.0,251,251,INCIDENTE - Alerta de Indisponibilidad de Servicio - PRD Bi Mantenimiento,INCIDENTE - Alerta de Indisponibilidad de Servicio - PRD Bi Contabilidad - PL_FA
+10392,10234,Azure Data Factory,Pipelines,0.908,88,91,Incidencia - Error de Pipeline MasterSolucion,Error de Pipeline analitica-prd MasterSolucion
+10234,10426,Azure Data Factory,Pipelines,0.999,91,97,Error de Pipeline analitica-prd MasterSolucion,Incidencia - Error de Pipeline MasterSolucion
+10424,10244,Azure Data Factory,Pipelines,1.0,75,89,Incidencia - Error de Pipeline VisorGeneralEtl,Incidencia - VisorGeneralEtl
+10435,10244,Azure Data Factory,Pipelines,0.918,79,89,Incidencia - Error de Pipeline VisorGeneralEtl,Incidencia - VisorGeneralEtl
+10244,10429,Azure Data Factory,Pipelines,0.949,89,121,Incidencia - VisorGeneralEtl,Incidencia - Error de Pipeline VisorGeneralEtl
+10449,10244,Azure Data Factory,Pipelines,1.0,75,89,Incidencia - Error de Pipeline VisorGeneralEtl,Incidencia - VisorGeneralEtl
+10430,10450,Azure Data Factory,Pipelines,0.993,70,75,Incidencia - Error de Pipeline MasterEjecucionesDatabricks,Incidencia - Error de Pipeline MasterEjecucionesDatabricks
+11679,11684,Azure Data Factory,Pipelines,1.0,143,162,INCIDENTE - Error de Punto de Falla - PRD Bi Data Ti,INCIDENTE - Error de Punto de Falla - PRD Bi Data Ti
+11840,11724,Azure Data Factory,Pipelines,1.0,191,191,REQUERIMIENTO - Error de Punto de Falla - PRD Cluster - Horario,Error de Punto de Falla - PRD Bi Data Ti - Databricks
+11972,11866,Databricks,Clusters / Jobs,1.0,256,261,INCIDENTE - Error de Punto de Falla - PRD Bi Data Ti - MasterSolucion,REQUERIMIENTO - Optimización de VistaETL - adf-analitica-prd
+11665,11668,Databricks,Clusters / Jobs,1.0,177,177,INCIDENTE - Error de Pipeline - adf-analitica-prd - VisorGeneralEtl,INCIDENTE - Error de pipeline - adf-costossanrafael-prd
+11666,11668,Databricks,Clusters / Jobs,1.0,177,177,INCIDENTE - Error de Pipeline - adf-logisticacorporativo-prd - pipeline_maestro_,INCIDENTE - Error de pipeline - adf-costossanrafael-prd
+10241,10217,Databricks,Conectividad,0.947,75,75,Incidencia - Error de Pipeline MaestroRecursos,Error de Pipeline - analitica-VisorGeneralEtl
+10242,10217,Databricks,Conectividad,0.941,75,75,Incidencia - Error de Pipeline MasterSolucion,Error de Pipeline - analitica-VisorGeneralEtl
+10217,10439,Databricks,Conectividad,0.918,75,84,Error de Pipeline - analitica-VisorGeneralEtl,Incidencia - Visor ETL
+10217,10253,Databricks,Conectividad,0.941,75,76,Error de Pipeline - analitica-VisorGeneralEtl,Incidencia - Error de Pipeline Master Ingesta
+10223,10397,Databricks,Conectividad,0.91,70,88,Error de Pipeline analitica-MaestroConsumo,Incidencia - Error de Pipeline MaestroLimpiezaPurview
+10243,10215,Databricks,Conectividad,1.0,75,98,Incidencia - Error de Pipeline MasterEjecucionesDatabricks,Error de Pipeline MasterEjecucionesDatabricks
+10385,10215,Databricks,Conectividad,1.0,67,98,Incidencia - Error de Pipeline,Error de Pipeline MasterEjecucionesDatabricks
+10253,10439,Databricks,Conectividad,0.877,76,84,Incidencia - Error de Pipeline Master Ingesta,Incidencia - Visor ETL
+10745,10747,Databricks,Conectividad,1.0,96,96,INCIDENCIA - Fallo en ejecución de notebooks Databricks - BI Data TI,INCIDENCIA - Fallo de notebook Databricks - BI Data TI
+10584,10587,Databricks,Conectividad,1.0,78,89,Incidencia - Error de Pipeline servicios_permanentes,Incidencia - Error de pipeline - LOGISTICA
+10584,10591,Databricks,Conectividad,0.957,78,138,Incidencia - Error de Pipeline servicios_permanentes,Incidencia - Error de Pipeline - BI Logistica
+10587,10591,Databricks,Conectividad,0.957,89,138,Incidencia - Error de pipeline - LOGISTICA,Incidencia - Error de Pipeline - BI Logistica
+10591,10593,Databricks,Conectividad,0.868,138,148,Incidencia - Error de Pipeline - BI Logistica,INCIDENCIA - FALLA EN EJECUCIÓN DE PIPELINES - BI Recursos Humanos
+10227,10247,Databricks,Conectividad,0.944,67,75,Error de Pipeline rrhh- Master Ingesta,Incidencia-Error de Pipeline Master Ingesta
+11505,11460,Gobierno del Dato,Calidad de Datos,1.0,131,131,REQUERIMIENTO - [Talent Analytics] Inactivación de tablas en SQL Azure,INCIDENTE - [Talent Analytics] Inactivación de tablas en SQL Azure
+11903,11982,Gobierno del Dato,Catálogo / Linaje,1.0,155,155,REQUERIMIENTO - Linaje en Purview – Talent Analytics,REQUERIMIENTO - Solicitud de rutas de procesos para integración de linaje en Pur
+11973,11982,Gobierno del Dato,Catálogo / Linaje,1.0,155,155,REQUERIMIENTO - BDO - Purview,REQUERIMIENTO - Solicitud de rutas de procesos para integración de linaje en Pur
+11321,11320,Gobierno del Dato,Catálogo / Linaje,1.0,175,175,Purview - Tesorería,Purview - Contraloría
+11322,11320,Gobierno del Dato,Catálogo / Linaje,1.0,175,175,Purview - Mantenimiento,Purview - Contraloría
+11459,11320,Gobierno del Dato,Catálogo / Linaje,1.0,175,175,Purview - RRHH - Ene 26,Purview - Contraloría
+11408,11410,Power BI,Conectividad,0.862,150,154,INCIDENTE - *urgente*Dashboard Finanzas - Cuentas x Cobrar (Consulta),INCIDENTE - Error de Pipeline - ADF Contabilidad
+10442,10444,Power BI,Conectividad,1.0,85,85,Incidencia - Error de Pipeline ActualizacionDatasets,Incidencia - Error de Pipeline ActualizacionDatasets
+10427,10444,Power BI,Conectividad,1.0,85,85,Incidencia - Error de Pipeline ActualizacionDatasets,Incidencia - Error de Pipeline ActualizacionDatasets
+11585,11571,Power BI,Modelado de datos,0.942,109,114,INCIDENTE - No carga información de índices de seguridad,INCIDENTE - Incidente en dashboard integrado de operaciones
+11720,11719,Power BI,Performance / Optimización,1.0,236,236,INCIDENTE - Error de Punto de Falla - PRD Bi Contabilidad - pipeline_master_Fact,INCIDENTE - Error de Punto de Falla - PRD Bi Contabilidad - Cuentas por Cobrar N
+11721,11719,Power BI,Performance / Optimización,1.0,231,236,INCIDENTE - Error de Punto de Falla - PRD Bi Mantenimiento - RefreshDatasetMante,INCIDENTE - Error de Punto de Falla - PRD Bi Contabilidad - Cuentas por Cobrar N
+11718,11719,Power BI,Performance / Optimización,1.0,236,236,INCIDENTE - Error de Punto de Falla - PRD Bi Operaciones,INCIDENTE - Error de Punto de Falla - PRD Bi Contabilidad - Cuentas por Cobrar N
+11129,11127,Soporte Analitico,Derivación del caso,0.869,31,33,Alertas Analítica - Error de Pipiline /  MaestroConsumo / MasterSolucion,Incidencia - Ticket de Monitoreo
+11123,11127,Soporte Analitico,Derivación del caso,0.869,31,33,Incidencia - Ticket de Monitoreo,Incidencia - Ticket de Monitoreo
+11132,11127,Soporte Analitico,Derivación del caso,0.892,32,33,Incidencia - Ticket de Monitoreo,Incidencia - Ticket de Monitoreo
+11307,11115,Web,Seguridad / Accesos,0.986,103,104,Requerimiento - Alertas de Calidad en el Autoservicio Analítico PRD,REQUERIMIENTO - Acceso al Autoservicio Analítico QAS
